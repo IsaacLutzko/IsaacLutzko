@@ -8,7 +8,9 @@ I'm a recent graduate from the University of Calgary with a combined degree in C
 ### Social
 <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/"/>
 
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+
+![Visitor Count](https://profile-counter.glitch.me/{IsaacLutzko}/count.svg)
+
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
