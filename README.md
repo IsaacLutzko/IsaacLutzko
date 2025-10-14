@@ -15,6 +15,8 @@ Data Analyst at the Cumming School of Medicine at the University of Calgary. My 
 ### GitHub Profile Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/{IsaacLutzko}/count.svg)
 
+<img src="https://profile-counter.deno.dev/:yourkey:/count.svg" alt="Key:: Visitor's Count" />
+
 
 
 
